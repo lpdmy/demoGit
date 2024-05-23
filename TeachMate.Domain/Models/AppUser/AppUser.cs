@@ -15,4 +15,5 @@ public class AppUser
     public UserRole UserRole { get; set; } = UserRole.Learner;
     public Tutor? Tutor { get; set; }
     public Learner? Learner { get; set; }
+    //huy dep trai nhat xa hoi
 }
