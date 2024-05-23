@@ -14,6 +14,9 @@ using TeachMate.Domain;
 using TeachMate.Services;
 using TeachMate.Services.SearchModuleService;
 
+//doi nay co lac nhau se tim nhau o kiep khac 
+//tim o day dai duong hay thac cheo leo
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
